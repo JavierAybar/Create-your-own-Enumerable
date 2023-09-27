@@ -1,10 +1,6 @@
 
 
 <!--
-HOW TO USE:
-This is an example of how you may give instructions on setting up your project locally.
-
-Modify this file to match your project and remove sections that don't apply.
 
 REQUIRED SECTIONS:
 - Table of Contents
@@ -26,7 +22,7 @@ After you're finished please remove all the comments and instructions!
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
-
+  - [💻Create-your-own-Enumerable](#-create-your-own-enumerable)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
   - [💻 Getting Started ](#-getting-started-)
@@ -41,9 +37,7 @@ After you're finished please remove all the comments and instructions!
   - [📝 License ](#-license-)
 
 <!-- PROJECT DESCRIPTION -->
-
-# 📖 MyEnumerable 💻
- <a name="about-project"></a>
+# 💻 Create-your-own-Enumerable<a name="about-project"></a>
 
 It's a project in which we created a class MyList to implement functionality from the MyEnumerable module.
 
@@ -71,7 +65,7 @@ In order to run this project you need:
 
 You have to have tools like: 
 
-- PostgreSQL
+- Ruby
 
 ### Setup
 
@@ -83,7 +77,7 @@ https://github.com/JavierAybar/Create-your-own-Enumerable.git
 Go to the project directory.
 
 ```bash
-  cd challenge.rb
+  cd Create-your-own-Enumerable
 ```
 ### Usage
 To use the code, follow these steps:
