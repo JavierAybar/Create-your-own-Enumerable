@@ -1,8 +1,4 @@
 module MyEnumerable
-  def pintar
-    each { |n| print n }
-  end
-
   def all?(&block)
     result = true
     each { |n| result = false unless block.call(n) }
